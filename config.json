@@ -1,0 +1,29 @@
+{
+  "language": "Roc",
+  "slug": "roc",
+  "files": {
+    "solution": [
+      "%{pascal_slug}.roc"
+    ],
+    "test": [
+      "%{kebab_slug}-test.roc"
+    ],
+    "example": [
+      ".meta/Example.roc"
+    ]
+  },
+  "exercises": {
+    "practice": [
+      {
+        "slug": "hello-world",
+        "name": "Hello World",
+        "uuid": "c2e68f17-4f90-4510-a945-9e2dbf23d777",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 1
+      }
+    ]
+  },
+  "tags": [
+  ]
+}
